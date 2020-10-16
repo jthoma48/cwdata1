@@ -17,4 +17,5 @@ BugReports: https://github.com/jthoma48/cwdata1/issues
 Depends: 
     R (>= 2.10)
 Imports: 
-    tibble
+    tibble,
+    dplyr
