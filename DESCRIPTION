@@ -1,0 +1,14 @@
+Package: cwdata1
+Title: Communicating with Data Resource Pack
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Justin",
+           family = "Thomas",
+           role = c("aut", "cre"),
+           email = "jtho0048@student.monash.edu")
+Description: Provides dataset and functions to use.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
